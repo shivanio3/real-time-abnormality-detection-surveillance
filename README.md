@@ -327,17 +327,7 @@ This project is licensed under the **MIT License**—see the [LICENSE](LICENSE) 
 - **Libraries**: PyTorch, OpenCV, MediaPipe, Flask
 - **Datasets**: UCF-Crime, FireNet, UR Fall
 
----
 
-## Contact & Support
-
-**Authors**: M. Shivani, V. Shiva Sai
-
-**Email**: ugs22013.aiml@cbit.org.in | ugs22014.aiml@cbit.org.in
-
-**GitHub**: [github.com/shivani03](https://github.com/shivani03)
-
-For issues, feature requests, or questions, please open an [Issue](https://github.com/shivani03/real-time-abnormality-detection-surveillance/issues).
 
 ---
 
