@@ -1,0 +1,31 @@
+# Core Dependencies
+Flask==2.3.2
+Werkzeug==2.3.6
+
+# Deep Learning & Computer Vision
+torch==2.0.0
+torchvision==0.15.1
+opencv-python==4.8.0.74
+mediapipe==0.8.11.1
+numpy==1.24.3
+
+# Image Processing
+Pillow==10.0.0
+scipy==1.11.1
+
+# Email & Utilities
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+
+# Web & Server
+gunicorn==21.2.0
+requests==2.31.0
+
+# Optional: GPU Support (uncomment if using CUDA)
+# torch-cuda==11.8  # For NVIDIA GPU support
+
+# Development & Testing (optional)
+pytest==7.4.0
+pytest-cov==4.1.0
+black==23.7.0
+flake8==6.0.0
